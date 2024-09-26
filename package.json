@@ -1,0 +1,24 @@
+{
+  "name": "abovevtt",
+  "version": "1.25.0",
+  "description": "Integrated VTT for D&DBeyond",
+  "main": "Startup.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyruzzo/AboveVTT.git"
+  },
+  "license": "AGPL-3.0",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/cyruzzo/AboveVTT/issues"
+  },
+  "homepage": "https://github.com/cyruzzo/AboveVTT#readme",
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^2.0.0-beta.25",
+    "vite": "^5.4.8"
+  }
+}
