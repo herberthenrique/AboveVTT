@@ -2,3 +2,6 @@
 .vscode
 .history
 .idea
+
+dist/
+node_modules/
